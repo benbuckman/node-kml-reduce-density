@@ -1,4 +1,6 @@
 // reduce the coordinate density of a KML file.
+// by Ben Buckman, newleafdigital.com
+// (please copy with credit.)
 
 var async = require('async')
   , fs = require('fs')
