@@ -22,3 +22,8 @@ The algorithm is very "dumb": given a *reduce* parameter of 2, it keeps every ot
       --out     write to new KML file                                             [required]
       --reduce  Preserve 1/N coordinates. 1=all, 4=25%, 10=10%. Default 2 (50%).  [required]  [default: 2]
 
+
+## Adaptations
+
+- Version that also checks the distance between points: https://gist.github.com/1709189
+
